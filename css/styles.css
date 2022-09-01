@@ -1,0 +1,17 @@
+  body {background-color: #E1FFEE}
+  table {cellspacing="20"}
+  hr {size="40";
+        border-style: dotted;
+        border-bottom: none;
+        border-left: none;
+        border-right: none;
+        border-width: 10px;
+        border-color: grey;
+        width: 8%;
+        height: 8px}
+  p {text-align: center}
+  li {text-align: center}
+  h3 {text-align: center;
+      color: #7FBCD2;}
+  h1 {
+          color: #7FBCD2;}
